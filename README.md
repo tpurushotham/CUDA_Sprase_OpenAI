@@ -1,2 +1,2 @@
-# CUDA_Sprase_OpenAI
+# GPU Programming_CS6023
 Implementing a sparse convolutional network. 
